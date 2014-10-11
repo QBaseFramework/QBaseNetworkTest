@@ -1,0 +1,6 @@
+[submodule "QBaseNetworkTest"]
+	path = QBaseNetworkTest
+	url = git@github.com:QBaseFramework/QBaseNetworkTest.git
+[submodule "QBaseNetwork"]
+	path = QBaseNetwork
+	url = git@github.com:QBaseFramework/QBaseNetwork.git
